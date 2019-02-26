@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#3464fa</color>
+    <color name="red">#d64231</color>
+    <color name="green">#21b371</color>
+    <color name="gold">#f1c24a</color>
+    <color name="silver">#bfbfbf</color>
+    <array name="buttonColors">
+        <item>@color/blue</item>
+        <item>@color/green</item>
+        <item>@color/red</item>
+        <item>@color/gold</item>
+        <item>@color/silver</item>
+    </array>
+</resources>
