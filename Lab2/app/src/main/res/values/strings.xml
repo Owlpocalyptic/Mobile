@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FebFridays</string>
+    <string name="caption_feb">This February, the Fridays are on: </string>
 </resources>
