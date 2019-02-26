@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="FebFridays">
+        <item>1</item>
+        <item>8</item>
+        <item>15</item>
+        <item>22</item>
+    </integer-array>
+</resources>
