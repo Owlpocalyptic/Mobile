@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GettingIntense</string>
+    <string name="activity_a">Activity A Represent!</string>
+    <string name="activity_b">It\'s ya boy Activity B</string>
+    <string name="activity_c">Activity C on the Scene</string>
+    <string name="click_me">Press Me</string>
+</resources>
