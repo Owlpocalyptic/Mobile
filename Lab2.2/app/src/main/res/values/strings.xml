@@ -3,6 +3,8 @@
     <string name="question1">Please select the instrument you would like to learn this term.</string>
     <string name="question2">Please select the month you would like to start in.</string>
     <string name="congratulations">Congratulations! You have successfully enrolled in INSTRUMENT lessons in MONTH.</string>
+    <string name="congratulationsI">"INSTRUMENT"</string>
+    <string name="congratulationsM">"MONTH"</string>
     <string name="accordion">Accordion</string>
     <string name="bassoon">Bassoon</string>
     <string name="cello">Cello</string>
