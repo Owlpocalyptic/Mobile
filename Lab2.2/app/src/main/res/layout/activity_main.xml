@@ -15,18 +15,18 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.175" />
+        app:layout_constraintVertical_bias="0.056" />
 
     <RadioGroup
+        android:id="@+id/radioButtons"
         android:layout_width="270dp"
         android:layout_height="167dp"
-        android:id="@+id/radioButtons"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.294">
+        app:layout_constraintVertical_bias="0.234">
 
         <RadioButton
             android:id="@+id/radioButton"
@@ -56,11 +56,10 @@
         android:text="@string/question2"
         android:textColor="@color/darkBlue"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.487"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.542" />
+        app:layout_constraintVertical_bias="0.593" />
 
     <Spinner
         android:id="@+id/instrumentSpinner"
@@ -68,10 +67,11 @@
         android:layout_height="40dp"
         android:spinnerMode="dialog"
         app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.512"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.57" />
+        app:layout_constraintVertical_bias="0.63" />
 
     <TextView
         android:id="@+id/congratsText"
@@ -80,11 +80,10 @@
         android:text="@string/congratulations"
         android:textColor="@color/darkBlue"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.487"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.787" />
+        app:layout_constraintVertical_bias="0.917" />
 
     <Button
         android:id="@+id/buttonEnrol"
@@ -92,10 +91,10 @@
         android:layout_height="wrap_content"
         android:text="Enrol"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.123"
+        app:layout_constraintHorizontal_bias="0.126"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.679" />
+        app:layout_constraintVertical_bias="0.745" />
 
 </android.support.constraint.ConstraintLayout>
