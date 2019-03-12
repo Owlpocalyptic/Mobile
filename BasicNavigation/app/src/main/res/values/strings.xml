@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BasicNavigation</string>
+    <string name="activities">Activities</string>
+    <string name="dining">Dining</string>
+    <string name="services">Services</string>
+    <string name="shopping">Shopping</string>
+</resources>
